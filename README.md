@@ -4,13 +4,13 @@ This project focuses on building a Content-Based Movie Recommendation System tha
 The system identifies similarities between movies based on their content features using basic NLP and vectorization techniques.
 
 What I learned through this project -
--Week1 : Foundations of Python & Data Science -
+-Week1 : -Foundations of Python & Data Science -
          In the first phase, the focus was on learning strong fundamental concepts for data analysis.
          It includes:
-         Python basics and data structures
-         Libraries such as NumPy, Pandas, Matplotlib
-         Exploratory analysis of movie datasets
-         Classification of movies based on genres.
+         -Python basics and data structures
+         -Libraries such as NumPy, Pandas, Matplotlib
+         -Exploratory analysis of movie datasets
+         -Classification of movies based on genres.
 
 -Week2 :
          
