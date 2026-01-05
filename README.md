@@ -7,16 +7,20 @@ The system identifies similarities between movies based on their content feature
 
 ### Week 1: Foundations of Python & Data Science
 
-In the first phase, the focus was on learning strong fundamental concepts required for data analysis.
+The first week of the project was dedicated to building a strong foundation in Python.  
+The focus was on understanding core programming concepts that are essential for data analysis and machine learning.
+
+### Week 2: Learning essential Python libraries
 
 **This includes:**
-- Python basics and core data structures  
-- Libraries such as **NumPy**, **Pandas**, and **Matplotlib**  
+- **NumPy** for numerical computations
+- Using **Pandas** for data manipulation and analysis
+- Data Visualisation by **Matplotlib**
 - Exploratory data analysis of movie datasets  
 - Classification of movies based on their genres  
 
 
-### Week 2: NLP & Recommendation System Concepts
+### Week 3: NLP & Recommendation System Concepts
 
 **This includes:**
 - Understanding and implementing **Count Vectorizer**
