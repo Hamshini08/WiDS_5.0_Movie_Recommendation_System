@@ -16,5 +16,16 @@ In the first phase, the focus was on learning strong fundamental concepts requir
 - Classification of movies based on their genres  
 
 
--Week2 :
+### 🔹 Week 2: NLP & Recommendation System Concepts
+
+**This includes:**
+- Understanding and implementing **Count Vectorizer**
+- Measuring similarity using **Cosine Similarity**
+- Merging multiple datasets into a **master dataset**
+- Text preprocessing techniques in **NLP**, including:
+  - Tokenization
+  - Stemming
+  - Lemmatization
+- Extracting meaningful features from text data such as plot summaries, keywords, cast, and crew.
+
          
