@@ -32,7 +32,7 @@ The focus was on understanding core programming concepts that are essential for 
   - Lemmatization
 - Extracting meaningful features from text data such as plot summaries, keywords, cast, and crew.
 
-### In the following weeks, wemoved on to building the movie-recommendation system
+### In the following weeks, we moved on to building the movie-recommendation system
 # 🎬 Movie Recommendation System  
 
 A simple **content-based movie recommender** built using Python that suggests movies similar to a given title based on metadata.
@@ -66,15 +66,15 @@ Multiple movie-related CSV files were merged and cleaned to form a **master data
 1. Preprocess movie metadata (cast, crew, keywords)
 2. Convert text to numerical vectors
 3. Compute cosine similarity
-4. Recommend the most similar movies 🎥
+4. Recommend the most similar movies 
 
 ---
 
 ##  Output
 Given a movie title, the system returns:
-- 🎞 Recommended movies  
-- 🎬 Director  
-- 📅 Release date  
+-  Recommended movies  
+-  Director  
+-  Release date  
 
 ---
 
